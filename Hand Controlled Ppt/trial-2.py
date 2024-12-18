@@ -68,5 +68,5 @@ while True:
     #if cv.waitKey(1) & 0xFF == ord('q'):  # Press 'q' to quit
         #break
 
-#cap.release()
-#cv.destroyAllWindows()
+cap.release()
+cv.destroyAllWindows()
