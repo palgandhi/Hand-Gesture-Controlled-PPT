@@ -73,6 +73,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 Contact
 
 Your Name - Pal Gandhi 
-palgandhi2005@icloyd.com
+Email ID - palgandhi2005@icloud.com
+LinkedIn - https://www.linkedin.com/in/pal-gandhi-5a58422a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-Project Link: https://github.com/your_username/repo_name
