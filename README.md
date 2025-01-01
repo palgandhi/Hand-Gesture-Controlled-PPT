@@ -70,3 +70,9 @@ Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
+Contact
+
+Your Name - Pal Gandhi 
+palgandhi2005@icloyd.com
+
+Project Link: https://github.com/your_username/repo_name
